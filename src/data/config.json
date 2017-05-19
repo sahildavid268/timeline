@@ -1,0 +1,42 @@
+[
+    {
+        "type": "START",
+        "date": "2015-02-01",
+        "headline": "Lorem ipsum dolor sit amet, ad natum nullam eam, autem mundi voluptatum mea te. Eam cu vidisse saperet sensibus.",
+        "notes": [
+            "Et iisque feugiat scriptorem est", "no sed rebum propriae. Dicit persecuti eam at."
+        ]
+    },
+    {
+        "type": "NORMAL",
+        "date": "2015-02-01",
+        "headline": "Lorem ipsum dolor sit amet, ad natum nullam eam, autem mundi voluptatum mea te. Eam cu vidisse saperet sensibus.",
+        "notes": [
+            "Et iisque feugiat scriptorem est", "no sed rebum propriae. Dicit persecuti eam at."
+        ]
+    },
+    {
+        "type": "TRAINING",
+        "date": "2015-02-01",
+        "headline": "Lorem ipsum dolor sit amet, ad natum nullam eam, autem mundi voluptatum mea te. Eam cu vidisse saperet sensibus.",
+        "notes": [
+            "Et iisque feugiat scriptorem est", "no sed rebum propriae. Dicit persecuti eam at."
+        ]
+    },
+    {
+        "type": "TEAM_LUNCH",
+        "date": "2015-02-01",
+        "headline": "Lorem ipsum dolor sit amet, ad natum nullam eam, autem mundi voluptatum mea te. Eam cu vidisse saperet sensibus.",
+        "notes": [
+            "Et iisque feugiat scriptorem est", "no sed rebum propriae. Dicit persecuti eam at."
+        ]
+    },
+    {
+        "type": "SICK_DAY",
+        "date": "2015-02-01",
+        "headline": "Lorem ipsum dolor sit amet, ad natum nullam eam, autem mundi voluptatum mea te. Eam cu vidisse saperet sensibus.",
+        "notes": [
+            "Et iisque feugiat scriptorem est", "no sed rebum propriae. Dicit persecuti eam at."
+        ]
+    }
+]
